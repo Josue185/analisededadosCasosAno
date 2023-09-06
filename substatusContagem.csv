@@ -1,0 +1,14 @@
+,status,total
+0,so - verified,1760
+1,in - not reachable,1074
+2,in - not ready,268
+3,in - not interested,215
+4,in - out of scope - rerouted,144
+5,so - verification not needed,78
+6,in - infeasible,52
+7,in - other,41
+8,ni - awaiting inputs,20
+9,as - reschedule 1,20
+10,so - unverified,15
+11,<Value Not Set>,11
+12,ni - awaiting validation,8
